@@ -1,10 +1,10 @@
-# Hello I'm Lucas COURTEAUD
+# 𝓗𝓮𝓵𝓵𝓸 𝓘'𝓶 𝓛𝓾𝓬𝓪𝓼 𝓒𝓞𝓤𝓡𝓣𝓔𝓐𝓤𝓓
 
 [![](https://img.shields.io/badge/-@LuckyBoy-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
 
-I'm a lover of learning and pedagogy
+𝓘'𝓶 𝓪 𝓵𝓸𝓿𝓮𝓻 𝓸𝓯 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓪𝓷𝓭 𝓹𝓮𝓭𝓪𝓰𝓸𝓰𝔂
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝓜𝔂 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -18,10 +18,10 @@ I'm a lover of learning and pedagogy
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) lucascourteaud1004@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)    lucascourteaud1004@gmail.com
 
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white) ɭยςкץ乃๏y#4269
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)  ɭยςкץ乃๏y#4269
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 𝓢𝓽𝓪𝓽𝓼
 
 ![LuckyBoy's github stats](https://github-readme-stats.vercel.app/api?username=LucasCourteaud&show_icons=true&theme=dracula)
