@@ -22,7 +22,7 @@ I'm a lover of learning and pedagogy
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)    lucascourteaud1004@gmail.com
 
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)  ɭยςкץ乃๏y#4269
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)  _luckyboy
 
 ## Stats
 
