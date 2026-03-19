@@ -24,4 +24,4 @@ I'm a lover of learning and pedagogy
 ## Stats
 
 ![LuckyBoy's github stats](https://github-readme-stats.vercel.app/api?username=LucasCourteaud&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCourteauda&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCourteaud&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
