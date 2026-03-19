@@ -1,7 +1,5 @@
 # Hello I'm Lucas COURTEAUD
 
-[![](https://img.shields.io/badge/-@LuckyBoy-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
-
 I'm a lover of learning and pedagogy
 
 ## My Tech Stack
